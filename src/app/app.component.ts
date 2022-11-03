@@ -31,7 +31,6 @@ export class AppComponent implements AfterViewInit {
       console.warn('dayNumberClick');
       alert('dayNumberClick');
       console.warn(event);
-      (event);
     });
 
     /**
